@@ -1,0 +1,27 @@
+.main-container {
+    background-color: rgba(255, 0, 255, 0.541);
+    align-content: center;
+}
+
+
+.container-one {
+    background-color: rgb(25, 80, 25);
+    text-align: center;
+}
+
+.container-two {
+background-color: rgb(189, 17, 17);
+text-align: center;
+
+}
+
+.container-three {
+background-color: darkseagreen;
+text-align: center;
+
+}
+
+.container-four {
+background-color: darkseagreen;
+text-align: center;
+}
